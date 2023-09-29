@@ -35,9 +35,6 @@ function App() {
         articles={articles}
         handleDelete={handleDelete}
       />
-      <div className="h-wrapper">
-        <h4>By Akhmedovs</h4>
-      </div>
     </div>
   );
 }
